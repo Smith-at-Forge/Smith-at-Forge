@@ -6,6 +6,9 @@
 - The Bootstrap framework
 - A Web Design Masterclass  
 
+Discover more about my projects and development experience here:
+https://smith-at-forge.github.io/project-hub
+
 💞️ I’m looking to collaborate on smaller-scale projects to gain hands-on experience in development or cybersecurity.  
 📫 How to reach me ...  
 ⚡ Fun fact: ...  
