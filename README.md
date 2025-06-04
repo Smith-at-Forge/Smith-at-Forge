@@ -10,8 +10,8 @@ Discover more about my projects and development experience here:
 https://smith-at-forge.github.io/project-hub
 
 💞️ I’m looking to collaborate on smaller-scale projects to gain hands-on experience in development or cybersecurity.  
-📫 How to reach me ...  
-⚡ Fun fact: ...  
+📫 How to reach me: contact@smith-at-forge.com  
+⚡ Fun fact: My hobby is collecting "Hello World" programs in every programming language imaginable.  
 
 <!---
 Smith-at-Forge/Smith-at-Forge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
