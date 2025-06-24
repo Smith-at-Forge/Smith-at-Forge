@@ -1,19 +1,20 @@
 👋 Hi, I’m @Smith-at-Forge  
 👀 I’m interested in AI, graphic design and web/app development.  
-🌱 I’m currently learning web development. So far, I've completed:
-- The Basics of HTML and CSS
+🌱 I’m currently learning full stack web development. So far, I've completed entire front end bereich:
+- INtermediate level of HTML, CSS and JavaScript
 - Responsive design using Flexbox and Grid systems
-- The Bootstrap framework
+- Bootstrap framework and jQuery library
 - A Web Design Masterclass
-- The Basics of JavaScript
 
-Discover more about my projects and development experience here:
+My next goal is to dive deeper into Backend bereich. You can discover more about my projects and follow my learning journey here:
+
+Discover more about my projects here:
 https://smith-at-forge.github.io/project-hub
 
 💞️ I’m looking to collaborate on smaller-scale projects to gain hands-on experience in development or cybersecurity.  
 ⚡ Fun fact: My hobby is collecting "Hello World" programs in every programming language imaginable.  
 
-📫 How to reach me: contact[at]smith-at-forge[dot]com  
+📫 How to reach me: Contact details are available on my website above. Feel free to get in touch!  
 
 <!---
 Smith-at-Forge/Smith-at-Forge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
