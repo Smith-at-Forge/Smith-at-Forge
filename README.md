@@ -6,7 +6,7 @@
 - Bootstrap framework and jQuery library
 - A Web Design Masterclass  
 
-My next step is to master backend technologies. You can check out my projects and follow my learning journey here:  
+My next step is to master backend technologies. You can follow my learning journey and check out my projects here:  
 https://smith-at-forge.github.io/project-hub
 
 💞️ I’m looking to collaborate on smaller-scale projects to gain hands-on experience in development or cybersecurity.  
