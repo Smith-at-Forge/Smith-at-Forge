@@ -1,14 +1,10 @@
 👋 Hi, I’m @Smith-at-Forge  
-👀 I’m interested in AI, graphic design and web/app development.  
-🌱 I’m currently learning full stack web development. So far, I’ve finished the frontend portion, covering:
-- Intermediate level in HTML, CSS and JavaScript
-- Responsive design using Flexbox and Grid systems
-- Bootstrap framework and jQuery library
-- A Web Design Masterclass  
+👀 I’m interested in AI, graphic design, app and web development.  
 
-My next step is to master backend technologies. You can follow my learning journey and check out my projects here:  
+Discover my projects and ongoing work here:  
 https://smith-at-forge.github.io/project-hub
 
+🌱 My next goal is to master app and web development.  
 💞️ I’m looking to collaborate on smaller-scale projects to gain hands-on experience in development or cybersecurity.  
 ⚡ Fun fact: My hobby is collecting "Hello World" programs in every programming language imaginable.  
 
